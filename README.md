@@ -1,4 +1,4 @@
-Este é um aplicativo simples que tem a intenção de mostrar o uso de várias funcionalidades do java script
+Este é um aplicativo tem a intenção de mostrar o uso de várias funcionalidades do java script
 
 para conpartilhar
 
